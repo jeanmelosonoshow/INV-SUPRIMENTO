@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b5d4b"><meta name="description" content="Contagem mobile de inventário de suprimentos">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="manifest" href="./manifest.webmanifest"><link rel="stylesheet" href="./styles.css">
+  <title>Inventário de Suprimentos</title>
+</head>
+<body>
+  <header class="app-header"><div><p class="eyebrow">SUPRIMENTOS</p><h1>Inventário</h1></div><button id="settings-button" class="icon-button" type="button" aria-label="Configurar integração">⚙</button></header>
+  <main class="app-shell">
+    <section class="inventory-bar" aria-live="polite"><div><span class="label">Inventário atual</span><strong id="protocol-label">Nenhum inventário iniciado</strong></div><span id="status-badge" class="status-badge status-idle">Aguardando</span></section>
+    <div id="setup-warning" class="notice" hidden>Configure o endereço do Google Apps Script para registrar contagens. <button id="setup-link" class="link-button" type="button">Configurar agora</button></div>
+    <section class="inventory-actions"><button id="start-button" class="button button-primary" type="button">Iniciar inventário</button><button id="finish-button" class="button button-danger" type="button" disabled>Finalizar inventário</button></section>
+    <nav class="tabs" aria-label="Telas do inventário"><button class="tab is-active" type="button" role="tab" aria-selected="true" aria-controls="form-panel" data-tab="form-panel">Formulário</button><button class="tab" type="button" role="tab" aria-selected="false" aria-controls="list-panel" data-tab="list-panel">Lista da contagem <span id="count-badge" class="count-badge">0</span></button></nav>
+    <section id="form-panel" class="tab-panel" role="tabpanel"><form id="count-form" class="card" autocomplete="off">
+      <label for="product-search">Item</label><div class="search-wrap"><input id="product-search" type="search" inputmode="search" placeholder="Buscar por descrição, ID ou EAN" aria-autocomplete="list" aria-controls="search-results" disabled><ul id="search-results" class="search-results" role="listbox" hidden></ul></div>
+      <div id="selected-product" class="selected-product" hidden><strong id="selected-description"></strong><span id="selected-details"></span></div>
+      <label for="quantity">Quantidade contada</label><input id="quantity" type="number" inputmode="numeric" min="1" step="1" placeholder="0" disabled>
+      <button id="submit-count" class="button button-primary button-full" type="submit" disabled>Enviar contagem</button>
+    </form></section>
+    <section id="list-panel" class="tab-panel" role="tabpanel" hidden><div class="list-toolbar"><div><span class="label">Itens contados</span><strong id="list-summary">0 produtos</strong></div><button id="export-button" class="button button-secondary" type="button" disabled>Exportar CSV</button></div><div id="empty-list" class="empty-state">As contagens enviadas aparecerão aqui.</div><div id="count-list" class="count-list"></div></section>
+  </main>
+  <dialog id="start-dialog" class="dialog"><form method="dialog"><h2>Iniciar inventário</h2><p id="start-dialog-copy">Escolha como deseja continuar.</p><div id="existing-inventories" class="dialog-options"></div><button id="new-inventory-button" class="button button-primary button-full" type="button">Criar novo inventário</button><button class="button button-ghost button-full" value="cancel">Cancelar</button></form></dialog>
+  <dialog id="settings-dialog" class="dialog"><form id="settings-form"><h2>Integração com Google Sheets</h2><p>Cole o endereço do aplicativo da web publicado pelo Google Apps Script.</p><label for="api-url">Endereço do Apps Script</label><input id="api-url" type="url" placeholder="https://script.google.com/macros/s/.../exec" required><button class="button button-primary button-full" type="submit">Salvar configuração</button><button id="clear-settings" class="button button-ghost button-full" type="button">Limpar</button><button class="button button-ghost button-full" type="button" data-close-dialog>Cancelar</button></form></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div><script src="./config.js"></script><script type="module" src="./app.js"></script>
+</body></html>

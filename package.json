@@ -1,0 +1,14 @@
+{
+  "name": "inv-suprimento",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert:products": "node scripts/convert-products.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  }
+}

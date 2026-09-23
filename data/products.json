@@ -1,0 +1,607 @@
+[
+  {
+    "idProduto": "46998",
+    "ean": "0000000046998",
+    "descricao": "ACUCAR"
+  },
+  {
+    "idProduto": "46913",
+    "ean": "0000000046913",
+    "descricao": "AGUA DESMINERALIZADA"
+  },
+  {
+    "idProduto": "46861",
+    "ean": "0000000046861",
+    "descricao": "AGULHA DE PISTOLA"
+  },
+  {
+    "idProduto": "46694",
+    "ean": "7899900602161",
+    "descricao": "ALCOOL LIQUIDO 70% LITRO CORDEX"
+  },
+  {
+    "idProduto": "46691",
+    "ean": "0000000046691",
+    "descricao": "ALVEJANTE 5L CORDEX"
+  },
+  {
+    "idProduto": "46859",
+    "ean": "0000000046859",
+    "descricao": "APONTADOR"
+  },
+  {
+    "idProduto": "47155",
+    "ean": "0000000047155",
+    "descricao": "ARQUIVO MORTO OFICIO DE POLIONDA AZ"
+  },
+  {
+    "idProduto": "46914",
+    "ean": "0000000046914",
+    "descricao": "ATROL VENENO BARATA"
+  },
+  {
+    "idProduto": "46915",
+    "ean": "0000000046915",
+    "descricao": "BALDE GRANDE"
+  },
+  {
+    "idProduto": "46916",
+    "ean": "0000000046916",
+    "descricao": "BALDE PEQUENO"
+  },
+  {
+    "idProduto": "46845",
+    "ean": "7893460192186",
+    "descricao": "BOBINA DE CALCULADORA"
+  },
+  {
+    "idProduto": "46866",
+    "ean": "0000000046866",
+    "descricao": "BOBINA ETIQUETA"
+  },
+  {
+    "idProduto": "46854",
+    "ean": "0000000046854",
+    "descricao": "BOBINA FISCAL"
+  },
+  {
+    "idProduto": "46858",
+    "ean": "0000000046858",
+    "descricao": "BORRACHA"
+  },
+  {
+    "idProduto": "46917",
+    "ean": "0000000046917",
+    "descricao": "BORRIFADOR"
+  },
+  {
+    "idProduto": "46905",
+    "ean": "0046847245226",
+    "descricao": "BUCHA DRYWALL"
+  },
+  {
+    "idProduto": "46971",
+    "ean": "0000000046971",
+    "descricao": "CAFE"
+  },
+  {
+    "idProduto": "46900",
+    "ean": "0000000046900",
+    "descricao": "CAIXA BOX AMARELA"
+  },
+  {
+    "idProduto": "46897",
+    "ean": "0000000046897",
+    "descricao": "CAIXA BOX BRANCA"
+  },
+  {
+    "idProduto": "46895",
+    "ean": "0000000046895",
+    "descricao": "CAIXA BOX CINZA"
+  },
+  {
+    "idProduto": "46898",
+    "ean": "0000000046898",
+    "descricao": "CAIXA BOX PRETA"
+  },
+  {
+    "idProduto": "46899",
+    "ean": "0000000046899",
+    "descricao": "CAIXA BOX VERDE"
+  },
+  {
+    "idProduto": "46896",
+    "ean": "0000000046896",
+    "descricao": "CAIXA BOX VERMELHA"
+  },
+  {
+    "idProduto": "46972",
+    "ean": "0000000046972",
+    "descricao": "CAIXA DE GRAMPO"
+  },
+  {
+    "idProduto": "46831",
+    "ean": "7898659152880",
+    "descricao": "CALCULADORA DIGITAL"
+  },
+  {
+    "idProduto": "46855",
+    "ean": "0000000046855",
+    "descricao": "CANETA"
+  },
+  {
+    "idProduto": "46807",
+    "ean": "0000000046807",
+    "descricao": "CANETA MARCA TEXTO AM PILOT"
+  },
+  {
+    "idProduto": "46903",
+    "ean": "0000000046903",
+    "descricao": "CAPSULA DE CAFE"
+  },
+  {
+    "idProduto": "46873",
+    "ean": "0000000046873",
+    "descricao": "CARTÃO VENDEDOR CASA TERRAZI"
+  },
+  {
+    "idProduto": "46872",
+    "ean": "0000000046872",
+    "descricao": "CARTÃO VENDEDOR SONO SHOW"
+  },
+  {
+    "idProduto": "46806",
+    "ean": "0000000046806",
+    "descricao": "CLIPS 500G 2/0 GALVANIZADO TOP CLIPS"
+  },
+  {
+    "idProduto": "46929",
+    "ean": "0000000046929",
+    "descricao": "COPO DE ISOPOR"
+  },
+  {
+    "idProduto": "46685",
+    "ean": "0000000046685",
+    "descricao": "COPO DESCARTAVEL AGUA 200ML C/2500"
+  },
+  {
+    "idProduto": "46686",
+    "ean": "0000000046686",
+    "descricao": "COPO DESCARTAVEL CAFE 50ML C/100"
+  },
+  {
+    "idProduto": "46908",
+    "ean": "7898339100880",
+    "descricao": "COPO TERMICO CAFÉ"
+  },
+  {
+    "idProduto": "46805",
+    "ean": "0000000046805",
+    "descricao": "CORRETOR LIQUIDO 18ML BIC"
+  },
+  {
+    "idProduto": "46932",
+    "ean": "0000000046932",
+    "descricao": "COXIM DUPLO"
+  },
+  {
+    "idProduto": "46933",
+    "ean": "0000000046933",
+    "descricao": "DESENGRIPANTE"
+  },
+  {
+    "idProduto": "46689",
+    "ean": "0000000046689",
+    "descricao": "DESIFETANTE CREOLINA 750ML"
+  },
+  {
+    "idProduto": "46692",
+    "ean": "0000000046692",
+    "descricao": "DESIFETANTE LAVANDA 5LTS CORDEX"
+  },
+  {
+    "idProduto": "46688",
+    "ean": "0000000046688",
+    "descricao": "DETERGENTE 500ML NEUTRO LIMPOL"
+  },
+  {
+    "idProduto": "46979",
+    "ean": "0000000046979",
+    "descricao": "ELASTICO"
+  },
+  {
+    "idProduto": "46869",
+    "ean": "0000000046869",
+    "descricao": "ENVELOPE A4"
+  },
+  {
+    "idProduto": "46817",
+    "ean": "0000000046817",
+    "descricao": "ESPONJA DUPLA FACE JEITOSA"
+  },
+  {
+    "idProduto": "46874",
+    "ean": "0000000046874",
+    "descricao": "ETIQUETA DE IMPERMEABILIZAÇÃO"
+  },
+  {
+    "idProduto": "47362",
+    "ean": "0000000047362",
+    "descricao": "ETIQUETA LARANJA"
+  },
+  {
+    "idProduto": "47378",
+    "ean": "0000000047378",
+    "descricao": "ETIQUETA PAPEL COUCHE EXTRA COLA 100MM X 75MM - LARANJA"
+  },
+  {
+    "idProduto": "47379",
+    "ean": "0000000047379",
+    "descricao": "ETIQUETA PAPEL COUCHE EXTRA COLA 100MM X 75MM - VERDE"
+  },
+  {
+    "idProduto": "47377",
+    "ean": "0000000047377",
+    "descricao": "ETIQUETA PAPEL COUCHE EXTRA COLA 100MM X 75MM BRANCA"
+  },
+  {
+    "idProduto": "47361",
+    "ean": "0000000047361",
+    "descricao": "ETIQUETA VERDE"
+  },
+  {
+    "idProduto": "46856",
+    "ean": "0000000046856",
+    "descricao": "EXTRATOR DE GRAMPO"
+  },
+  {
+    "idProduto": "46891",
+    "ean": "7891021002103",
+    "descricao": "FILTRO CAFÉ 102"
+  },
+  {
+    "idProduto": "46892",
+    "ean": "7891021002127",
+    "descricao": "FILTRO CAFÉ 103"
+  },
+  {
+    "idProduto": "46893",
+    "ean": "7892330000200",
+    "descricao": "FILTRO CAFÉ PANO"
+  },
+  {
+    "idProduto": "46847",
+    "ean": "7898316522254",
+    "descricao": "FITA DUREX 48X45"
+  },
+  {
+    "idProduto": "46975",
+    "ean": "0000000046975",
+    "descricao": "FITILHO"
+  },
+  {
+    "idProduto": "46901",
+    "ean": "0000000046901",
+    "descricao": "FLANELA GRANDE"
+  },
+  {
+    "idProduto": "46706",
+    "ean": "0000000046706",
+    "descricao": "FOSFORO GRANDE C/200"
+  },
+  {
+    "idProduto": "46832",
+    "ean": "7908214721458",
+    "descricao": "GRAMPEADOR METAL"
+  },
+  {
+    "idProduto": "46974",
+    "ean": "0000000046974",
+    "descricao": "GRAMPO UNIDADE"
+  },
+  {
+    "idProduto": "46704",
+    "ean": "0000000046704",
+    "descricao": "INSETICIDA SBP 285 ML"
+  },
+  {
+    "idProduto": "46865",
+    "ean": "0000000046865",
+    "descricao": "LACRE MALOTE"
+  },
+  {
+    "idProduto": "46862",
+    "ean": "0000000046862",
+    "descricao": "LAMINA ESTILETE"
+  },
+  {
+    "idProduto": "46857",
+    "ean": "0000000046857",
+    "descricao": "LAPIS"
+  },
+  {
+    "idProduto": "46836",
+    "ean": "7898975954113",
+    "descricao": "LIVRO DE PROTOCOLO"
+  },
+  {
+    "idProduto": "46819",
+    "ean": "0000000046819",
+    "descricao": "LUSTRA MOVEIS 200ML POLIFLOR LAVANDA"
+  },
+  {
+    "idProduto": "46889",
+    "ean": "7896098863695",
+    "descricao": "LUVA G"
+  },
+  {
+    "idProduto": "46888",
+    "ean": "7896098863688",
+    "descricao": "LUVA M"
+  },
+  {
+    "idProduto": "46702",
+    "ean": "0000000046702",
+    "descricao": "LUVA MUCAMBO FORRADA AM G"
+  },
+  {
+    "idProduto": "46701",
+    "ean": "0000000046701",
+    "descricao": "LUVA MUCAMBO FORRADA AM M"
+  },
+  {
+    "idProduto": "46842",
+    "ean": "7896411418908",
+    "descricao": "NYLON"
+  },
+  {
+    "idProduto": "46912",
+    "ean": "0000000046912",
+    "descricao": "OLEO LUBRIFICANTE ATF PANTHER"
+  },
+  {
+    "idProduto": "46911",
+    "ean": "0000000046911",
+    "descricao": "OLEO LUBRIFICANTE ATF TIPO A"
+  },
+  {
+    "idProduto": "46879",
+    "ean": "0000000046879",
+    "descricao": "PÁ CANO LONGO"
+  },
+  {
+    "idProduto": "47154",
+    "ean": "0000000047154",
+    "descricao": "PALITO DENTAL 100 UNID"
+  },
+  {
+    "idProduto": "46687",
+    "ean": "0000000046687",
+    "descricao": "PANO DE CHAO ALVEJADO GD 44X76"
+  },
+  {
+    "idProduto": "43423",
+    "ean": "7891173023001",
+    "descricao": "PAPEL CHAMEX A4 OFFICE 210X297 75G C/500"
+  },
+  {
+    "idProduto": "46828",
+    "ean": "7898119103711",
+    "descricao": "PAPEL GLOSS"
+  },
+  {
+    "idProduto": "46907",
+    "ean": "0000000046907",
+    "descricao": "PAPEL HIGIENICO ROLÃO"
+  },
+  {
+    "idProduto": "46970",
+    "ean": "0000000046970",
+    "descricao": "PAPEL HIGIENICO ROLO FOLHA DUPLA"
+  },
+  {
+    "idProduto": "46699",
+    "ean": "0000000046699",
+    "descricao": "PAPEL TOALHA BRANCO LUXO VHM"
+  },
+  {
+    "idProduto": "46867",
+    "ean": "0000000046867",
+    "descricao": "PASTA A4"
+  },
+  {
+    "idProduto": "43424",
+    "ean": "7897832805070",
+    "descricao": "PASTA ABA ELAST 1/2 OF FINA LINE AZ DELO"
+  },
+  {
+    "idProduto": "46837",
+    "ean": "7897027201229",
+    "descricao": "PASTA DE CONTRATO"
+  },
+  {
+    "idProduto": "46841",
+    "ean": "7897866027530",
+    "descricao": "PASTA L"
+  },
+  {
+    "idProduto": "46868",
+    "ean": "0000000046868",
+    "descricao": "PASTA SUSPENSA"
+  },
+  {
+    "idProduto": "46996",
+    "ean": "0000000046996",
+    "descricao": "PILHA AA"
+  },
+  {
+    "idProduto": "46863",
+    "ean": "7897013534201",
+    "descricao": "PILHA AAA"
+  },
+  {
+    "idProduto": "46839",
+    "ean": "7908214718397",
+    "descricao": "PILOTO PRETO"
+  },
+  {
+    "idProduto": "46838",
+    "ean": "7897424080786",
+    "descricao": "PILOTO VERMELHO"
+  },
+  {
+    "idProduto": "46860",
+    "ean": "0000000046860",
+    "descricao": "PISTOLA DE PRECO"
+  },
+  {
+    "idProduto": "46846",
+    "ean": "0000G0ZI47821",
+    "descricao": "PISTOLA DE PREÇO"
+  },
+  {
+    "idProduto": "46844",
+    "ean": "7897027251545",
+    "descricao": "PLASTICO A4"
+  },
+  {
+    "idProduto": "46870",
+    "ean": "0000000046870",
+    "descricao": "PORTA PREÇO CASA TERRAZI"
+  },
+  {
+    "idProduto": "46871",
+    "ean": "0000000046871",
+    "descricao": "PORTA PREÇO SONO SHOW"
+  },
+  {
+    "idProduto": "46700",
+    "ean": "0000000046700",
+    "descricao": "POTE DE SOBREMESA 100ML C/100"
+  },
+  {
+    "idProduto": "46931",
+    "ean": "0000000046931",
+    "descricao": "POTE SOBREMESA"
+  },
+  {
+    "idProduto": "46849",
+    "ean": "7897216950310",
+    "descricao": "PRANCHETA"
+  },
+  {
+    "idProduto": "46904",
+    "ean": "0000000046904",
+    "descricao": "REFIL FILTRO LOJA"
+  },
+  {
+    "idProduto": "46848",
+    "ean": "7897294401636",
+    "descricao": "REGUA"
+  },
+  {
+    "idProduto": "46816",
+    "ean": "0000000046816",
+    "descricao": "REMOVEDOR FAISCA 500ML C/CHEIRO"
+  },
+  {
+    "idProduto": "46853",
+    "ean": "0000000046853",
+    "descricao": "RIBBOM"
+  },
+  {
+    "idProduto": "46707",
+    "ean": "0000000046707",
+    "descricao": "RODO DE MADEIRA 30CM"
+  },
+  {
+    "idProduto": "46708",
+    "ean": "0000000046708",
+    "descricao": "RODO DE MADEIRA 60CM"
+  },
+  {
+    "idProduto": "46881",
+    "ean": "0000000046881",
+    "descricao": "RODO GRANDE"
+  },
+  {
+    "idProduto": "46880",
+    "ean": "0000000046880",
+    "descricao": "RODO PEQUENO"
+  },
+  {
+    "idProduto": "46703",
+    "ean": "0000000046703",
+    "descricao": "SABAO DE COCO 100G"
+  },
+  {
+    "idProduto": "46695",
+    "ean": "0000000046695",
+    "descricao": "SABAO EM PO 800G SURF"
+  },
+  {
+    "idProduto": "46705",
+    "ean": "0000000046705",
+    "descricao": "SABAO PASTOSO NEUTRAL 500G"
+  },
+  {
+    "idProduto": "46693",
+    "ean": "0000000046693",
+    "descricao": "SABONETE ERVA DOCE 5LT CENON"
+  },
+  {
+    "idProduto": "46697",
+    "ean": "0000000046697",
+    "descricao": "SACO DE LIXO 100L C/100 PR ROB/VHM"
+  },
+  {
+    "idProduto": "46698",
+    "ean": "0000000046698",
+    "descricao": "SACO DE LIXO 240L C/100 PR ROB/VHM"
+  },
+  {
+    "idProduto": "46696",
+    "ean": "0000000046696",
+    "descricao": "SACO DE LIXO 60L PR C/100 ROB/VHM"
+  },
+  {
+    "idProduto": "46833",
+    "ean": "7898299401515",
+    "descricao": "TALÃO DE RECIBO"
+  },
+  {
+    "idProduto": "46835",
+    "ean": "7897571910677",
+    "descricao": "TALÃO DESPESAS"
+  },
+  {
+    "idProduto": "46906",
+    "ean": "00000YQJG2954",
+    "descricao": "TAMPA VASO"
+  },
+  {
+    "idProduto": "46843",
+    "ean": "7908782200836",
+    "descricao": "TESOURA"
+  },
+  {
+    "idProduto": "46818",
+    "ean": "0000000046818",
+    "descricao": "VASELINA LIQUIDA 1LT"
+  },
+  {
+    "idProduto": "46878",
+    "ean": "0000000046878",
+    "descricao": "VASSOURA PIAÇAVA"
+  },
+  {
+    "idProduto": "46876",
+    "ean": "0000000046876",
+    "descricao": "VASSOURA SOFA"
+  },
+  {
+    "idProduto": "46877",
+    "ean": "0000000046877",
+    "descricao": "VASSOURA VASO"
+  }
+]
